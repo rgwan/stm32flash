@@ -1,3 +1,5 @@
 stm32flash
 *.o
+*~
+*.bin
 parsers/parsers.a
